@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Perimeter-Area-Circle\Perimeter-Area-Circle\bin\Debug\Perimeter-Area-Circle.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Perimeter-Area-Circle\Perimeter-Area-Circle\bin\Debug\Perimeter-Area-Circle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Perimeter-Area-Circle\Perimeter-Area-Circle\bin\Debug\Perimeter-Area-Circle.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Perimeter-Area-Circle\Perimeter-Area-Circle\obj\Debug\Perimeter-Area-Circle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Perimeter-Area-Circle\Perimeter-Area-Circle\obj\Debug\Perimeter-Area-Circle.pdb

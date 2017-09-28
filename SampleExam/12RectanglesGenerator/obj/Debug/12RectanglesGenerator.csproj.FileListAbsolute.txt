@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\bin\Debug\12RectanglesGenerator.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\bin\Debug\12RectanglesGenerator.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\bin\Debug\12RectanglesGenerator.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\obj\Debug\12RectanglesGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\obj\Debug\12RectanglesGenerator.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\12RectanglesGenerator\obj\Debug\12RectanglesGenerator.pdb

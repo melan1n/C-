@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\obj\Debug\6SumOfTwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\bin\Debug\6SumOfTwoNumbers.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\bin\Debug\6SumOfTwoNumbers.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\bin\Debug\6SumOfTwoNumbers.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\obj\Debug\6SumOfTwoNumbers.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam 2017 03 19  Morning\6SumOfTwoNumbers\obj\Debug\6SumOfTwoNumbers.pdb

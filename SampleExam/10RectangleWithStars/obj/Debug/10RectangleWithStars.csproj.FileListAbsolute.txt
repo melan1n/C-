@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\obj\Debug\10RectangleWithStars.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\bin\Debug\10RectangleWithStars.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\bin\Debug\10RectangleWithStars.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\bin\Debug\10RectangleWithStars.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\obj\Debug\10RectangleWithStars.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\10RectangleWithStars\obj\Debug\10RectangleWithStars.pdb

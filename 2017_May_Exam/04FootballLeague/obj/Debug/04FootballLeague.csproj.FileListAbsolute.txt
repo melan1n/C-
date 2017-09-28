@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\bin\Debug\04FootballLeague.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\bin\Debug\04FootballLeague.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\bin\Debug\04FootballLeague.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\obj\Debug\04FootballLeague.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\obj\Debug\04FootballLeague.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\04FootballLeague\obj\Debug\04FootballLeague.pdb

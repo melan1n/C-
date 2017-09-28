@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Radians-To-Degrees\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Radians-To-Degrees\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Radians-To-Degrees\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Radians-To-Degrees\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Radians-To-Degrees\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.pdb

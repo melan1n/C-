@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\bin\Debug\06NumberGenerator.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\bin\Debug\06NumberGenerator.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\bin\Debug\06NumberGenerator.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\obj\Debug\06NumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\obj\Debug\06NumberGenerator.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\2017_May_Exam\06NumberGenerator\obj\Debug\06NumberGenerator.pdb

@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\To1000EndOn7\bin\Debug\To1000EndOn7.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\To1000EndOn7\bin\Debug\To1000EndOn7.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\To1000EndOn7\bin\Debug\To1000EndOn7.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\To1000EndOn7\obj\Debug\To1000EndOn7.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\To1000EndOn7\obj\Debug\To1000EndOn7.pdb

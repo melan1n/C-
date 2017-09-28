@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\MinNum\bin\Debug\MinNum.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\MinNum\bin\Debug\MinNum.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\MinNum\bin\Debug\MinNum.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\MinNum\obj\Debug\MinNum.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\MinNum\obj\Debug\MinNum.pdb

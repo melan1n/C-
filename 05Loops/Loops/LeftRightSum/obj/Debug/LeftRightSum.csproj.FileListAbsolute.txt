@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LeftRightSum\bin\Debug\LeftRightSum.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LeftRightSum\bin\Debug\LeftRightSum.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LeftRightSum\obj\Debug\LeftRightSum.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LeftRightSum\obj\Debug\LeftRightSum.pdb

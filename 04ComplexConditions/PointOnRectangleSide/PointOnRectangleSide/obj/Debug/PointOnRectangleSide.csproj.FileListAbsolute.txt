@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\obj\Debug\PointOnRectangleSide.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\bin\Debug\PointOnRectangleSide.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\bin\Debug\PointOnRectangleSide.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\bin\Debug\PointOnRectangleSide.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\obj\Debug\PointOnRectangleSide.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointOnRectangleSide\PointOnRectangleSide\obj\Debug\PointOnRectangleSide.pdb

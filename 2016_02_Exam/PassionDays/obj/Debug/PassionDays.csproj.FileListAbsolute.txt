@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\bin\Debug\PassionDays.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\bin\Debug\PassionDays.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\bin\Debug\PassionDays.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\obj\Debug\PassionDays.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\obj\Debug\PassionDays.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\PassionDays\obj\Debug\PassionDays.pdb

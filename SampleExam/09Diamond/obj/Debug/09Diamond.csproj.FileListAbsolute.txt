@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\bin\Debug\09Diamond.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\bin\Debug\09Diamond.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\bin\Debug\09Diamond.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\obj\Debug\09Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\obj\Debug\09Diamond.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09Diamond\obj\Debug\09Diamond.pdb

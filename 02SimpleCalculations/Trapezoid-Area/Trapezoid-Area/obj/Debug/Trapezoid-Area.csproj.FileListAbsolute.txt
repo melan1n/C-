@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Trapezoid-Area\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Trapezoid-Area\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

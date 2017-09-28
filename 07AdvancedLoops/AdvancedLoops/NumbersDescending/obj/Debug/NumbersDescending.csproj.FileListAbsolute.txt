@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\bin\Debug\NumbersDescending.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\bin\Debug\NumbersDescending.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\bin\Debug\NumbersDescending.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\obj\Debug\NumbersDescending.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\obj\Debug\NumbersDescending.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumbersDescending\obj\Debug\NumbersDescending.pdb

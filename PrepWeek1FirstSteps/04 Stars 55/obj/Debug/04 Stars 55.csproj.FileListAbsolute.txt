@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\04 Stars 55\bin\Debug\04 Stars 55.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\04 Stars 55\bin\Debug\04 Stars 55.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\04 Stars 55\bin\Debug\04 Stars 55.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\04 Stars 55\obj\Debug\04 Stars 55.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\04 Stars 55\obj\Debug\04 Stars 55.pdb

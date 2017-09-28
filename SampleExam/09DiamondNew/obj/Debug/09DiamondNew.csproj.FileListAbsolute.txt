@@ -1,0 +1,5 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09DiamondNew\bin\Debug\09DiamondNew.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09DiamondNew\bin\Debug\09DiamondNew.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09DiamondNew\bin\Debug\09DiamondNew.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09DiamondNew\obj\Debug\09DiamondNew.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\09DiamondNew\obj\Debug\09DiamondNew.pdb

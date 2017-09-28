@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PowerOfTwo\bin\Debug\PowerOfTwo.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PowerOfTwo\bin\Debug\PowerOfTwo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PowerOfTwo\bin\Debug\PowerOfTwo.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PowerOfTwo\obj\Debug\PowerOfTwo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PowerOfTwo\obj\Debug\PowerOfTwo.pdb

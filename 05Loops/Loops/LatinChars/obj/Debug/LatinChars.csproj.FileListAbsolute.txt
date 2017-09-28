@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\bin\Debug\LatinChars.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\bin\Debug\LatinChars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\bin\Debug\LatinChars.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\obj\Debug\LatinChars.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\obj\Debug\LatinChars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\LatinChars\obj\Debug\LatinChars.pdb

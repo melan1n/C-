@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.pdb

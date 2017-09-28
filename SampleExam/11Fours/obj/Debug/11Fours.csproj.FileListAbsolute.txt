@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\obj\Debug\11Fours.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\bin\Debug\11Fours.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\bin\Debug\11Fours.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\bin\Debug\11Fours.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\obj\Debug\11Fours.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\11Fours\obj\Debug\11Fours.pdb

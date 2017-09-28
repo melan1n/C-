@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\obj\Debug\NumbersFrom1To100.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\bin\Debug\NumbersFrom1To100.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\obj\Debug\NumbersFrom1To100.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\NumbersFrom1To100\obj\Debug\NumbersFrom1To100.pdb

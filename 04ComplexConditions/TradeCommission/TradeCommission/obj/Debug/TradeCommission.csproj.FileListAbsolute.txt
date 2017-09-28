@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\bin\Debug\TradeCommission.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\bin\Debug\TradeCommission.exe
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\bin\Debug\TradeCommission.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\obj\Debug\TradeCommission.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\obj\Debug\TradeCommission.exe
+c:\users\notandi\documents\visual studio 2017\Projects\TradeCommission\TradeCommission\obj\Debug\TradeCommission.pdb

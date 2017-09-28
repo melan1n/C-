@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\obj\Debug\PointInFigure.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\bin\Debug\PointInFigure.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\bin\Debug\PointInFigure.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\bin\Debug\PointInFigure.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\obj\Debug\PointInFigure.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\PointInFigure\PointInFigure\obj\Debug\PointInFigure.pdb

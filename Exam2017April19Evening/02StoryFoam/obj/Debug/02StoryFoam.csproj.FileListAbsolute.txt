@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\02StoryFoam\bin\Debug\02StoryFoam.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\02StoryFoam\bin\Debug\02StoryFoam.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\02StoryFoam\bin\Debug\02StoryFoam.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\02StoryFoam\obj\Debug\02StoryFoam.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\02StoryFoam\obj\Debug\02StoryFoam.pdb

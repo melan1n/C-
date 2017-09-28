@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Quadrangular\Area-Quadrangular\bin\Debug\Area-Quadrangular.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Quadrangular\Area-Quadrangular\bin\Debug\Area-Quadrangular.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Quadrangular\Area-Quadrangular\bin\Debug\Area-Quadrangular.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Quadrangular\Area-Quadrangular\obj\Debug\Area-Quadrangular.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Quadrangular\Area-Quadrangular\obj\Debug\Area-Quadrangular.pdb

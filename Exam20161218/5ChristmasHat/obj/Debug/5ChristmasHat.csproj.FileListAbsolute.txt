@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\bin\Debug\5ChristmasHat.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\bin\Debug\5ChristmasHat.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\bin\Debug\5ChristmasHat.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\obj\Debug\5ChristmasHat.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\obj\Debug\5ChristmasHat.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\5ChristmasHat\obj\Debug\5ChristmasHat.csprojResolveAssemblyReference.cache

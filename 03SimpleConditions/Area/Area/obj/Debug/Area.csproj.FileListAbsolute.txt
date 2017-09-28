@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\bin\Debug\Area.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\bin\Debug\Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\bin\Debug\Area.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\obj\Debug\Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area\Area\obj\Debug\Area.pdb

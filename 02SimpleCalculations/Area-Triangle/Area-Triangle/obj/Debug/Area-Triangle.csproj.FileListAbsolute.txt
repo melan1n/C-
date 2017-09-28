@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Triangle\Area-Triangle\bin\Debug\Area-Triangle.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Triangle\Area-Triangle\bin\Debug\Area-Triangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Triangle\Area-Triangle\bin\Debug\Area-Triangle.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Triangle\Area-Triangle\obj\Debug\Area-Triangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Area-Triangle\Area-Triangle\obj\Debug\Area-Triangle.pdb

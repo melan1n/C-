@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\obj\Debug\PyramidNew.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\bin\Debug\PyramidNew.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\bin\Debug\PyramidNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\bin\Debug\PyramidNew.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\obj\Debug\PyramidNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\PyramidNew\obj\Debug\PyramidNew.pdb

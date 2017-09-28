@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\bin\Debug\03 Numbers from 1 to 0 for loop.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\bin\Debug\03 Numbers from 1 to 0 for loop.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\bin\Debug\03 Numbers from 1 to 0 for loop.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\obj\Debug\03 Numbers from 1 to 0 for loop.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\obj\Debug\03 Numbers from 1 to 0 for loop.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\01 First Steps\03 Numbers from 1 to 0 for loop\obj\Debug\03 Numbers from 1 to 0 for loop.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\bin\Debug\03SchoolCamp.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\bin\Debug\03SchoolCamp.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\bin\Debug\03SchoolCamp.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\obj\Debug\03SchoolCamp.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\obj\Debug\03SchoolCamp.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\03SchoolCamp\obj\Debug\03SchoolCamp.pdb

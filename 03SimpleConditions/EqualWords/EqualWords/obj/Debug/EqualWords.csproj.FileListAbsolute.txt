@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\EqualWords\EqualWords\obj\Debug\EqualWords.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EqualWords\EqualWords\obj\Debug\EqualWords.pdb

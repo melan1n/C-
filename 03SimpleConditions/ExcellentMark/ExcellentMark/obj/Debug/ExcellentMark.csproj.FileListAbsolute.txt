@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\bin\Debug\ExcellentMark.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\bin\Debug\ExcellentMark.exe
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\bin\Debug\ExcellentMark.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\obj\Debug\ExcellentMark.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\obj\Debug\ExcellentMark.exe
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentMark\ExcellentMark\obj\Debug\ExcellentMark.pdb

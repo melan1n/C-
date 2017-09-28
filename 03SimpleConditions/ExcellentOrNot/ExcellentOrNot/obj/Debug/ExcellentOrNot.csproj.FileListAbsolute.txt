@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentOrNot\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentOrNot\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentOrNot\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentOrNot\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+c:\users\notandi\documents\visual studio 2017\Projects\ExcellentOrNot\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb

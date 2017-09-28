@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\bin\Debug\03TruckDriver.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\bin\Debug\03TruckDriver.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\bin\Debug\03TruckDriver.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\obj\Debug\03TruckDriver.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\obj\Debug\03TruckDriver.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\03TruckDriver\obj\Debug\03TruckDriver.pdb

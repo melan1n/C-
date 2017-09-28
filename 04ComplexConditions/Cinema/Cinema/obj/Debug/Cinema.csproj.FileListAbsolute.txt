@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb

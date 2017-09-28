@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Square Area\Square Area\bin\Debug\Square Area.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Square Area\Square Area\bin\Debug\Square Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Square Area\Square Area\bin\Debug\Square Area.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Square Area\Square Area\obj\Debug\Square Area.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Square Area\Square Area\obj\Debug\Square Area.pdb

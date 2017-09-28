@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Fibonachi\bin\Debug\Fibonachi.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Fibonachi\bin\Debug\Fibonachi.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Fibonachi\bin\Debug\Fibonachi.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Fibonachi\obj\Debug\Fibonachi.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\Fibonachi\obj\Debug\Fibonachi.pdb

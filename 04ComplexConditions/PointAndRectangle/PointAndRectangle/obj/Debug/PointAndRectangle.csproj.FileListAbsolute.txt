@@ -1,0 +1,9 @@
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\bin\Debug\PointAndRectangle.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\bin\Debug\PointAndRectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\bin\Debug\PointAndRectangle.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.FormPointAndRectangle.resources
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.Properties.Resources.resources
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.GenerateResource.Cache
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointAndRectangle\PointAndRectangle\obj\Debug\PointAndRectangle.pdb

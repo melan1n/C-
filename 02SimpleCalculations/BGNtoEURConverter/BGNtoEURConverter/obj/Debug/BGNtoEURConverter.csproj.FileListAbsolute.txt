@@ -1,0 +1,9 @@
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.exe
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\bin\Debug\BGNtoEURConverter.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.Form1.resources
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.Properties.Resources.resources
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.csproj.GenerateResource.Cache
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.exe
+c:\users\notandi\documents\visual studio 2017\Projects\BGNtoEURConverter\BGNtoEURConverter\obj\Debug\BGNtoEURConverter.pdb

@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb

@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareOfStars\bin\Debug\SquareOfStars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareOfStars\obj\Debug\SquareOfStars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareOfStars\obj\Debug\SquareOfStars.pdb

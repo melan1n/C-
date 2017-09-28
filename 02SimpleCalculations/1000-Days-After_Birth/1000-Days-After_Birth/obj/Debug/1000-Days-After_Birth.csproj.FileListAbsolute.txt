@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\obj\Debug\1000-Days-After_Birth.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\bin\Debug\1000-Days-After_Birth.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\bin\Debug\1000-Days-After_Birth.exe
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\bin\Debug\1000-Days-After_Birth.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\obj\Debug\1000-Days-After_Birth.exe
+c:\users\notandi\documents\visual studio 2017\Projects\1000-Days-After_Birth\1000-Days-After_Birth\obj\Debug\1000-Days-After_Birth.pdb

@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\bin\Debug\04PointInsideAFigure.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\bin\Debug\04PointInsideAFigure.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\bin\Debug\04PointInsideAFigure.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\obj\Debug\04PointInsideAFigure.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\obj\Debug\04PointInsideAFigure.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\04PointInsideAFigure\obj\Debug\04PointInsideAFigure.pdb

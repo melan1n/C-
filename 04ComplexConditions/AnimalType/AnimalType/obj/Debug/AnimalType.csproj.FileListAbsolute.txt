@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AnimalType\AnimalType\bin\Debug\AnimalType.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AnimalType\AnimalType\bin\Debug\AnimalType.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AnimalType\AnimalType\bin\Debug\AnimalType.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AnimalType\AnimalType\obj\Debug\AnimalType.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AnimalType\AnimalType\obj\Debug\AnimalType.pdb

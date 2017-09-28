@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

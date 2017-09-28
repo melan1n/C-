@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\obj\Debug\FruitOrVegetable.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+c:\users\notandi\documents\visual studio 2017\Projects\FruitOrVegetable\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

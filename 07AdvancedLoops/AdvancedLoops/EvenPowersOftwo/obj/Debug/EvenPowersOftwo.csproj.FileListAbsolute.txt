@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EvenPowersOftwo\bin\Debug\EvenPowersOftwo.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EvenPowersOftwo\bin\Debug\EvenPowersOftwo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EvenPowersOftwo\bin\Debug\EvenPowersOftwo.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EvenPowersOftwo\obj\Debug\EvenPowersOftwo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EvenPowersOftwo\obj\Debug\EvenPowersOftwo.pdb

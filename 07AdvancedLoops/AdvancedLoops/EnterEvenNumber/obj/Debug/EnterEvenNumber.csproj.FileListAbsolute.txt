@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

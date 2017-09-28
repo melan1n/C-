@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\bin\Debug\10x10Rectangle.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\bin\Debug\10x10Rectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\bin\Debug\10x10Rectangle.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\obj\Debug\10x10Rectangle.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\obj\Debug\10x10Rectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\10x10Rectangle\obj\Debug\10x10Rectangle.pdb

@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\bin\Debug\EqualPairs.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\bin\Debug\EqualPairs.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\bin\Debug\EqualPairs.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\obj\Debug\EqualPairs.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\obj\Debug\EqualPairs.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache

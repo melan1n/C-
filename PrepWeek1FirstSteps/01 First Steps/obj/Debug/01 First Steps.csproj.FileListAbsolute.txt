@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\obj\Debug\01 First Steps.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\bin\Debug\01 First Steps.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\bin\Debug\01 First Steps.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\bin\Debug\01 First Steps.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\obj\Debug\01 First Steps.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\01 First Steps\obj\Debug\01 First Steps.pdb

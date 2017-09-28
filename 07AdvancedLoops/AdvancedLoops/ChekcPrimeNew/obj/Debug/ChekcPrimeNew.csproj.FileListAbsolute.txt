@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\ChekcPrimeNew\bin\Debug\ChekcPrimeNew.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\ChekcPrimeNew\bin\Debug\ChekcPrimeNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\ChekcPrimeNew\bin\Debug\ChekcPrimeNew.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\ChekcPrimeNew\obj\Debug\ChekcPrimeNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\ChekcPrimeNew\obj\Debug\ChekcPrimeNew.pdb

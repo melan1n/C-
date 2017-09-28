@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\bin\Debug\01.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\bin\Debug\01.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\bin\Debug\01.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\obj\Debug\01.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\01\obj\Debug\01.pdb

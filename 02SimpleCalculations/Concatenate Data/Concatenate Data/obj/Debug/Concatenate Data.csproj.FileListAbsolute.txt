@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Concatenate Data\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Concatenate Data\Concatenate Data\bin\Debug\Concatenate Data.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Concatenate Data\Concatenate Data\bin\Debug\Concatenate Data.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Concatenate Data\Concatenate Data\obj\Debug\Concatenate Data.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Concatenate Data\Concatenate Data\obj\Debug\Concatenate Data.pdb

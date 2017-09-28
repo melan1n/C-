@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\PointInsideRectangle\PointInsideRectangle\bin\Debug\PointInsideRectangle.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\PointInsideRectangle\PointInsideRectangle\bin\Debug\PointInsideRectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointInsideRectangle\PointInsideRectangle\bin\Debug\PointInsideRectangle.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\PointInsideRectangle\PointInsideRectangle\obj\Debug\PointInsideRectangle.exe
+c:\users\notandi\documents\visual studio 2017\Projects\PointInsideRectangle\PointInsideRectangle\obj\Debug\PointInsideRectangle.pdb

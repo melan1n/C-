@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

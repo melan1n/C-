@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\05 Rectangle surface\bin\Debug\05 Rectangle surface.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\05 Rectangle surface\bin\Debug\05 Rectangle surface.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\05 Rectangle surface\bin\Debug\05 Rectangle surface.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\05 Rectangle surface\obj\Debug\05 Rectangle surface.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\05 Rectangle surface\obj\Debug\05 Rectangle surface.pdb

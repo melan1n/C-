@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\Expression\bin\Debug\Expression.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\Expression\bin\Debug\Expression.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\Expression\bin\Debug\Expression.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\Expression\obj\Debug\Expression.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\Expression\obj\Debug\Expression.pdb

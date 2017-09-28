@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\bin\Debug\EncodedAnswersNew.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\bin\Debug\EncodedAnswersNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\bin\Debug\EncodedAnswersNew.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\obj\Debug\EncodedAnswersNew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\obj\Debug\EncodedAnswersNew.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\EncodedAnswersNew\obj\Debug\EncodedAnswersNew.csprojResolveAssemblyReference.cache

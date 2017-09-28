@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\bin\Debug\FallenInLove.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\bin\Debug\FallenInLove.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\bin\Debug\FallenInLove.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\obj\Debug\FallenInLove.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\obj\Debug\FallenInLove.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\FallenInLove\obj\Debug\FallenInLove.pdb

@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\obj\Debug\3EqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\bin\Debug\3EqualNumbers.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\bin\Debug\3EqualNumbers.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\bin\Debug\3EqualNumbers.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\obj\Debug\3EqualNumbers.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\3EqualNumbers\3EqualNumbers\obj\Debug\3EqualNumbers.pdb

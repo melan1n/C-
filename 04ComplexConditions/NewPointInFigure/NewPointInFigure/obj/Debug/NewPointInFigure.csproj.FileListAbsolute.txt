@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\bin\Debug\NewPointInFigure.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\bin\Debug\NewPointInFigure.exe
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\bin\Debug\NewPointInFigure.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\obj\Debug\NewPointInFigure.exe
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\obj\Debug\NewPointInFigure.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\NewPointInFigure\NewPointInFigure\obj\Debug\NewPointInFigure.csprojResolveAssemblyReference.cache

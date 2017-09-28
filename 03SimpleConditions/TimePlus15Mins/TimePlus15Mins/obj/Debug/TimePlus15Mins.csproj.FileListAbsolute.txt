@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\obj\Debug\TimePlus15Mins.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\bin\Debug\TimePlus15Mins.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\bin\Debug\TimePlus15Mins.exe
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\bin\Debug\TimePlus15Mins.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\obj\Debug\TimePlus15Mins.exe
+c:\users\notandi\documents\visual studio 2017\Projects\TimePlus15Mins\TimePlus15Mins\obj\Debug\TimePlus15Mins.pdb

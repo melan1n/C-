@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\bin\Debug\03 Numbers from 1 to 20.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\bin\Debug\03 Numbers from 1 to 20.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\bin\Debug\03 Numbers from 1 to 20.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\obj\Debug\03 Numbers from 1 to 20.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\obj\Debug\03 Numbers from 1 to 20.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\03 Numbers from 1 to 20\obj\Debug\03 Numbers from 1 to 20.pdb

@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

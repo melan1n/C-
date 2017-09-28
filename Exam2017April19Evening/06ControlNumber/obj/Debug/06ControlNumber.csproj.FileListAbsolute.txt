@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\bin\Debug\06ControlNumber.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\bin\Debug\06ControlNumber.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\bin\Debug\06ControlNumber.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\obj\Debug\06ControlNumber.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\obj\Debug\06ControlNumber.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\06ControlNumber\obj\Debug\06ControlNumber.pdb

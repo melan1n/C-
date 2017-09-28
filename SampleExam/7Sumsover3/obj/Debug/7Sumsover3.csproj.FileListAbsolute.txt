@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\obj\Debug\7Sumsover3.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\bin\Debug\7Sumsover3.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\bin\Debug\7Sumsover3.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\bin\Debug\7Sumsover3.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\obj\Debug\7Sumsover3.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\7Sumsover3\obj\Debug\7Sumsover3.pdb

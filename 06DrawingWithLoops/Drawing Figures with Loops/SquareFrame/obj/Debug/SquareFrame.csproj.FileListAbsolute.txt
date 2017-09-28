@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareFrame\bin\Debug\SquareFrame.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareFrame\bin\Debug\SquareFrame.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareFrame\bin\Debug\SquareFrame.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareFrame\obj\Debug\SquareFrame.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\SquareFrame\obj\Debug\SquareFrame.pdb

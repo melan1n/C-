@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\SequenceTwoKplusOne\bin\Debug\SequenceTwoKplusOne.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\SequenceTwoKplusOne\bin\Debug\SequenceTwoKplusOne.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\SequenceTwoKplusOne\bin\Debug\SequenceTwoKplusOne.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\SequenceTwoKplusOne\obj\Debug\SequenceTwoKplusOne.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\SequenceTwoKplusOne\obj\Debug\SequenceTwoKplusOne.pdb

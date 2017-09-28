@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\obj\Debug\ClassRoom.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\ClassRoom\obj\Debug\ClassRoom.pdb

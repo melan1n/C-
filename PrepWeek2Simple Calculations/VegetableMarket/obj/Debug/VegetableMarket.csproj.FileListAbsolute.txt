@@ -1,0 +1,5 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\VegetableMarket\bin\Debug\VegetableMarket.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\VegetableMarket\bin\Debug\VegetableMarket.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\VegetableMarket\obj\Debug\VegetableMarket.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Simple Calculations\VegetableMarket\obj\Debug\VegetableMarket.pdb

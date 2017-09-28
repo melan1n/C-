@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.pdb

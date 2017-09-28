@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\bin\Debug\02ToyShop.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\bin\Debug\02ToyShop.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\bin\Debug\02ToyShop.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\obj\Debug\02ToyShop.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\obj\Debug\02ToyShop.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\02ToyShop\obj\Debug\02ToyShop.pdb

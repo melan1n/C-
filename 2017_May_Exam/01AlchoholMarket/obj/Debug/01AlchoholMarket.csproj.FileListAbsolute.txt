@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\bin\Debug\01AlchoholMarket.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\bin\Debug\01AlchoholMarket.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\bin\Debug\01AlchoholMarket.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\obj\Debug\01AlchoholMarket.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\obj\Debug\01AlchoholMarket.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2017_May_Exam\01AlchoholMarket\obj\Debug\01AlchoholMarket.pdb

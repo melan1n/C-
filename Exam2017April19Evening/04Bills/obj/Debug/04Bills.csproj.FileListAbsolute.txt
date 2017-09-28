@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\bin\Debug\04Bills.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\bin\Debug\04Bills.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\bin\Debug\04Bills.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\obj\Debug\04Bills.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\obj\Debug\04Bills.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Bills\obj\Debug\04Bills.pdb

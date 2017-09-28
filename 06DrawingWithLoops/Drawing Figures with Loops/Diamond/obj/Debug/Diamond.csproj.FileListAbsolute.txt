@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.pdb

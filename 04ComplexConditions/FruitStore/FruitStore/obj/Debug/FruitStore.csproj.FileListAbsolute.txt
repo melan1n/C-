@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\obj\Debug\FruitStore.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\bin\Debug\FruitStore.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\bin\Debug\FruitStore.exe
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\bin\Debug\FruitStore.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\obj\Debug\FruitStore.exe
+c:\users\notandi\documents\visual studio 2017\Projects\FruitStore\FruitStore\obj\Debug\FruitStore.pdb

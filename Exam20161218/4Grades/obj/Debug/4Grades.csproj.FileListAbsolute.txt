@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\bin\Debug\4Grades.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\bin\Debug\4Grades.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\bin\Debug\4Grades.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\obj\Debug\4Grades.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\obj\Debug\4Grades.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\4Grades\obj\Debug\4Grades.pdb

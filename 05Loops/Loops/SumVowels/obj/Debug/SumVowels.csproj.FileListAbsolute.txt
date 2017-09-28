@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\bin\Debug\SumVowels.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\bin\Debug\SumVowels.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\bin\Debug\SumVowels.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\obj\Debug\SumVowels.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\obj\Debug\SumVowels.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\SumVowels\obj\Debug\SumVowels.pdb

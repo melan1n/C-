@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\bin\Debug\Inches To Centimeters.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\bin\Debug\Inches To Centimeters.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\bin\Debug\Inches To Centimeters.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\obj\Debug\Inches To Centimeters.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\obj\Debug\Inches To Centimeters.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Inches To Centimeters\Inches To Centimeters\obj\Debug\Inches To Centimeters.pdb

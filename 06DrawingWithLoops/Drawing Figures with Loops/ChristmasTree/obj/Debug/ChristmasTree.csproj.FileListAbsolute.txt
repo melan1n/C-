@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\bin\Debug\ChristmasTree.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\obj\Debug\ChristmasTree.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Drawing Figures with Loops\ChristmasTree\obj\Debug\ChristmasTree.pdb

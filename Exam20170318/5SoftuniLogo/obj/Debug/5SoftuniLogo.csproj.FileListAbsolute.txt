@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\bin\Debug\5SoftuniLogo.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\bin\Debug\5SoftuniLogo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\bin\Debug\5SoftuniLogo.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\obj\Debug\5SoftuniLogo.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\obj\Debug\5SoftuniLogo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20170318\5SoftuniLogo\obj\Debug\5SoftuniLogo.pdb

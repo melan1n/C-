@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\USD-BGN\USD-BGN\bin\Debug\USD-BGN.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\USD-BGN\USD-BGN\bin\Debug\USD-BGN.exe
+c:\users\notandi\documents\visual studio 2017\Projects\USD-BGN\USD-BGN\bin\Debug\USD-BGN.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\USD-BGN\USD-BGN\obj\Debug\USD-BGN.exe
+c:\users\notandi\documents\visual studio 2017\Projects\USD-BGN\USD-BGN\obj\Debug\USD-BGN.pdb

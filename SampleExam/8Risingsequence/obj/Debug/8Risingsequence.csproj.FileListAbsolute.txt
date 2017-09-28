@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\bin\Debug\8Risingsequence.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\bin\Debug\8Risingsequence.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\bin\Debug\8Risingsequence.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\obj\Debug\8Risingsequence.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\obj\Debug\8Risingsequence.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\8Risingsequence\obj\Debug\8Risingsequence.pdb

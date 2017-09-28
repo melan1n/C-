@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.pdb

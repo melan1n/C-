@@ -1,0 +1,5 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\6Sumsofthreenumbers\bin\Debug\6Sumsofthreenumbers.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\6Sumsofthreenumbers\bin\Debug\6Sumsofthreenumbers.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\6Sumsofthreenumbers\bin\Debug\6Sumsofthreenumbers.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\6Sumsofthreenumbers\obj\Debug\6Sumsofthreenumbers.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\6Sumsofthreenumbers\obj\Debug\6Sumsofthreenumbers.pdb

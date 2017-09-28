@@ -1,0 +1,6 @@
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\bin\Debug\5DateInFiveDays.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\bin\Debug\5DateInFiveDays.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\bin\Debug\5DateInFiveDays.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\obj\Debug\5DateInFiveDays.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\obj\Debug\5DateInFiveDays.exe
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\Solution1\5DateInFiveDays\obj\Debug\5DateInFiveDays.pdb

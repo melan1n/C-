@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\bin\Debug\Store.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\bin\Debug\Store.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\bin\Debug\Store.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\obj\Debug\Store.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Store\Store\obj\Debug\Store.pdb

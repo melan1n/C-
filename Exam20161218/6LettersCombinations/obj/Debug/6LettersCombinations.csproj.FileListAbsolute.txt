@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\bin\Debug\6LettersCombinations.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\bin\Debug\6LettersCombinations.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\bin\Debug\6LettersCombinations.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\obj\Debug\6LettersCombinations.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\obj\Debug\6LettersCombinations.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam20161218\6LettersCombinations\obj\Debug\6LettersCombinations.csprojResolveAssemblyReference.cache

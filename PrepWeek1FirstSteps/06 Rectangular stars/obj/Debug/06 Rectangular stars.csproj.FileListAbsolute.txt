@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\06 Rectangular stars\bin\Debug\06 Rectangular stars.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\06 Rectangular stars\bin\Debug\06 Rectangular stars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\06 Rectangular stars\bin\Debug\06 Rectangular stars.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\06 Rectangular stars\obj\Debug\06 Rectangular stars.exe
+c:\users\notandi\documents\visual studio 2017\Projects\01 First Steps\06 Rectangular stars\obj\Debug\06 Rectangular stars.pdb
+C:\Users\Notandi\Documents\Visual Studio 2017\Projects\01 First Steps\06 Rectangular stars\obj\Debug\06 Rectangular stars.csprojResolveAssemblyReference.cache

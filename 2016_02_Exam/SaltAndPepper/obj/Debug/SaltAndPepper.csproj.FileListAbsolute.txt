@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\bin\Debug\SaltAndPepper.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\bin\Debug\SaltAndPepper.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\bin\Debug\SaltAndPepper.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\obj\Debug\SaltAndPepper.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\obj\Debug\SaltAndPepper.exe
+c:\users\notandi\documents\visual studio 2017\Projects\2016_02_Exam\SaltAndPepper\obj\Debug\SaltAndPepper.pdb

@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\obj\Debug\Cross-Currency.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\bin\Debug\Cross-Currency.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\bin\Debug\Cross-Currency.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\bin\Debug\Cross-Currency.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\obj\Debug\Cross-Currency.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Cross-Currency\Cross-Currency\obj\Debug\Cross-Currency.pdb

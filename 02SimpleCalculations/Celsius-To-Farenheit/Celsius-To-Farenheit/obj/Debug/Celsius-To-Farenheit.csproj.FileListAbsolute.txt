@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Celsius-To-Farenheit\Celsius-To-Farenheit\bin\Debug\Celsius-To-Farenheit.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Celsius-To-Farenheit\Celsius-To-Farenheit\bin\Debug\Celsius-To-Farenheit.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Celsius-To-Farenheit\Celsius-To-Farenheit\bin\Debug\Celsius-To-Farenheit.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Celsius-To-Farenheit\Celsius-To-Farenheit\obj\Debug\Celsius-To-Farenheit.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Celsius-To-Farenheit\Celsius-To-Farenheit\obj\Debug\Celsius-To-Farenheit.pdb

@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\SpeedInfo\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\SpeedInfo\SpeedInfo\bin\Debug\SpeedInfo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\SpeedInfo\SpeedInfo\bin\Debug\SpeedInfo.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\SpeedInfo\SpeedInfo\obj\Debug\SpeedInfo.exe
+c:\users\notandi\documents\visual studio 2017\Projects\SpeedInfo\SpeedInfo\obj\Debug\SpeedInfo.pdb

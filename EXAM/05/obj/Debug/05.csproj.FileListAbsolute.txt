@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\05\bin\Debug\05.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\05\bin\Debug\05.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\05\bin\Debug\05.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\05\obj\Debug\05.exe
+c:\users\notandi\documents\visual studio 2017\Projects\EXAM\05\obj\Debug\05.pdb

@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\bin\Debug\ElementToSumOfRest.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\bin\Debug\ElementToSumOfRest.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\bin\Debug\ElementToSumOfRest.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\obj\Debug\ElementToSumOfRest.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\obj\Debug\ElementToSumOfRest.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Loops\ElementToSumOfRest\obj\Debug\ElementToSumOfRest.pdb

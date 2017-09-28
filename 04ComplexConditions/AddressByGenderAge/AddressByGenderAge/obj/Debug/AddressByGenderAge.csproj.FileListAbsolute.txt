@@ -1,0 +1,6 @@
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\bin\Debug\AddressByGenderAge.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\bin\Debug\AddressByGenderAge.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\bin\Debug\AddressByGenderAge.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\obj\Debug\AddressByGenderAge.csprojResolveAssemblyReference.cache
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\obj\Debug\AddressByGenderAge.exe
+c:\users\notandi\documents\visual studio 2017\Projects\AddressByGenderAge\AddressByGenderAge\obj\Debug\AddressByGenderAge.pdb

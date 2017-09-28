@@ -1,0 +1,5 @@
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Billsnew\bin\Debug\04Billsnew.exe.config
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Billsnew\bin\Debug\04Billsnew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Billsnew\bin\Debug\04Billsnew.pdb
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Billsnew\obj\Debug\04Billsnew.exe
+c:\users\notandi\documents\visual studio 2017\Projects\Exam2017April19Evening\04Billsnew\obj\Debug\04Billsnew.pdb
