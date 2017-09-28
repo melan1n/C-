@@ -1,1 +1,1 @@
-The repository holds all my exercises on C# projects.
+The repository holds my C# projects.
