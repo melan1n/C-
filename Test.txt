@@ -1,8 +1,16 @@
 Test
 
+
 "Update with GitGUI…"
 
 Update again with GitGUI
 Updating with new line here.
 Add text here...
 Dots here...
+
+
+Updating with Bash…
+
+"Update with GitGUI…"
+
+
