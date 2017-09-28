@@ -1,1 +1,1 @@
-The repository holds my C# projects.
+The repository holds my projects in Softuni course "C# Programming Basics".
